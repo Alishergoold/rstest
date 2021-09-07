@@ -1,2 +1,7 @@
-Some text header
+
+Some text for header
 Changes from <master>
+
+
+Change frow <first>
+Text from master: new changes!!!
