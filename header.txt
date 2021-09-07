@@ -1,6 +1,11 @@
 
 Some text for header
+<<<<<<< HEAD
 Changes from <master>
+=======
+Change from <master> - New changes!!!
+
+>>>>>>> 5aaa5fd (add some text to header)
 
 
 Change frow <first>
